@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HabitTracker</string>
+    <string name="add_new_habit_button">Add new habit</string>
+    <string name="title_text_habits_list">HABITS\nLIST</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
